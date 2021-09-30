@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Movie_App/static/css/main.06b1a161.chunk.css",
+    "main.js": "/React_Movie_App/static/js/main.3e34caec.chunk.js",
+    "main.js.map": "/React_Movie_App/static/js/main.3e34caec.chunk.js.map",
+    "runtime-main.js": "/React_Movie_App/static/js/runtime-main.10d57dd1.js",
+    "runtime-main.js.map": "/React_Movie_App/static/js/runtime-main.10d57dd1.js.map",
+    "static/js/2.ebc08e7d.chunk.js": "/React_Movie_App/static/js/2.ebc08e7d.chunk.js",
+    "static/js/2.ebc08e7d.chunk.js.map": "/React_Movie_App/static/js/2.ebc08e7d.chunk.js.map",
+    "index.html": "/React_Movie_App/index.html",
+    "static/css/main.06b1a161.chunk.css.map": "/React_Movie_App/static/css/main.06b1a161.chunk.css.map",
+    "static/js/2.ebc08e7d.chunk.js.LICENSE.txt": "/React_Movie_App/static/js/2.ebc08e7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10d57dd1.js",
+    "static/js/2.ebc08e7d.chunk.js",
+    "static/css/main.06b1a161.chunk.css",
+    "static/js/main.3e34caec.chunk.js"
+  ]
+}
